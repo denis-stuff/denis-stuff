@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Denis Gómez
 
-<!--
-**denis-stuff/denis-stuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA Engineer** with hands-on experience in backend and frontend development.
 
-Here are some ideas to get you started:
+## 🧪 What I do
+I build and maintain end-to-end automated test suites that help teams ship reliable software with confidence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Testing:** Playwright
+
+**Backend:** Java · Spring Boot
+
+**Frontend:** HTML5 · SCSS · Vanilla JavaScript · TypeScript
+
+**Runtime:** Node.js
+
+## 💡 My approach
+Understanding code from both the developer and QA perspectives helps me write smarter tests and catch issues earlier.
+
+## 📫 Reach me
+- LinkedIn: [dgomez-qa](https://www.linkedin.com/in/dgomez-qa/)
+- Email: denis.anderson.villa@gmail.com
